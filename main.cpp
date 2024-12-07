@@ -16,4 +16,8 @@ main () {
     cout << "damn" << endl;
     cout << "damn" << endl;
     cout << "damn" << endl;
+    cout << "wingga" << endl;
+    cout << "wingga" << endl;
+    cout << "wingga" << endl;
+    cout << "wingga" << endl;
 }
