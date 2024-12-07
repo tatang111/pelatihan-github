@@ -3,21 +3,5 @@ using namespace std;
 
 
 main () {
-    cout << "hello world" << endl;
-    cout << "hello dunia" << endl;
-    cout << "hello cpp" << endl;
-
-    cout << "damn" << endl;
-    cout << "damn" << endl;
-    cout << "damn" << endl;
-    cout << "damn" << endl;
-    cout << "damn" << endl;
-    cout << "damn" << endl;
-    cout << "damn" << endl;
-    cout << "damn" << endl;
-    cout << "damn" << endl;
-    cout << "wingga" << endl;
-    cout << "wingga" << endl;
-    cout << "wingga" << endl;
-    cout << "wingga" << endl;
+    cout << "hello tang" << endl;
 }
