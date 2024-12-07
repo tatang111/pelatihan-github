@@ -9,4 +9,10 @@ main () {
 
     cout << "damn" << endl;
     cout << "damn" << endl;
+    cout << "damn" << endl;
+    cout << "damn" << endl;
+    cout << "damn" << endl;
+    cout << "damn" << endl;
+    cout << "damn" << endl;
+    cout << "damn" << endl;
 }
