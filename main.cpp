@@ -8,4 +8,5 @@ main () {
     cout << "hello cpp" << endl;
 
     cout << "damn" << endl;
+    cout << "damn" << endl;
 }
